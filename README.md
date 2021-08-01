@@ -5,7 +5,7 @@ fast and lightweight desktop background browser and setter for X Window
 Automatic install/update:
 
 ```shell
-bash -c "$(curl -LSs https://github.com/dfmgr/nitrogen/raw/master/install.sh)"
+bash -c "$(curl -LSs https://github.com/dfmgr/nitrogen/raw/main/install.sh)"
 ```
 
 Manual install:
